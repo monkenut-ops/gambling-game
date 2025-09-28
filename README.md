@@ -1,0 +1,2 @@
+# gambling-game
+for jsfiddle
